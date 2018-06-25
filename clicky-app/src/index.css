@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+h2{
+text-align: center;
+text-decoration-color: aquamarine;
+font-family: Courier New, Courier, monospace;
+font-size: 45px;
+font-style: italic;
+
+}
+/* <div class="custom_banner_container" style="background-image: url();">
+<div class="banner_header_overlay">
+<h1 class="article_title">
+Planets
+
+</h1> */
